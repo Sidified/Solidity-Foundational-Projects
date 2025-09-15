@@ -9,7 +9,7 @@ Hello and welcome! You're at the beginning of an exciting journey into the world
 
 ## A Note from a Fellow Beginner ✍️
 
-My name is **Sid**, and if you're reading this, you're probably in the exact same place I am: excited about blockchain, eager to learn Solidity, but not sure where to start. As a complete beginner to both coding and this technology, my own journey was kickstarted by the fantastic, free educational resources provided by Patrick Collins [@PatrickAlphaC](https://X.com/PatrickAlphaC). A huge thank you to him for making this knowledge so accessible.
+My name is **Sid**, and if you're reading this, you're probably in the exact same place I am: excited about blockchain, eager to learn Solidity, but not sure where to start. As a complete beginner to both coding and this technology, my own journey was kickstarted by the fantastic, free educational resources provided by [@PatrickAlphaC](https://X.com/PatrickAlphaC). A huge thank you to him for making this knowledge so accessible.
 
 After following his course, I knew that before moving on to more advanced topics, I needed to truly grasp the fundamentals. I believe **the best way to learn is by doing**—by building, making mistakes, and learning from them. For that reason, I created these five projects for my own practice to solidify my understanding.
 
